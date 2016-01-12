@@ -1,6 +1,8 @@
 # ReportBuilder
 レポートをMarkdownで書くときのリアルタイムビューワーみたいなもんです。
 gulpfileをいじくっていい感じにカスタマイズしてください。
+## TODO
+PDF出力は日本語対応してません。日本語対応したかったら自分でPhantomJSをビルドしなおすのをお勧めします。
 # Usage
 ## Installation
 clone repository and run `npm install`
