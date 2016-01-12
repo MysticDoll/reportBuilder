@@ -11,12 +11,13 @@
   },
   "author": "MysticDoll",
   "license": "MIT",
-  "devDependencies": {
+  "dependencies": {
     "gulp": "^3.9.0",
     "gulp-buffer": "0.0.2",
     "gulp-notify": "^2.2.0",
     "gulp-rename": "^1.2.2",
     "gulp-webserver": "^0.9.1",
-    "mathjax_markdown": "0.0.7"
+    "mathjax_markdown": "0.0.7",
+    "phantomjs": "^1.9.2-6"
   }
 }
